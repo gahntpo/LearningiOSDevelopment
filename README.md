@@ -1,6 +1,46 @@
 # How to Learn iOS Development
 
+# Swift Programming language - The basics
+- types: enum, struct, Int
+- enum and associated values
+- when to use struct vs. class
+- naming conventions
 
+resource: 
+- 100 days HackingWithSwift
+- Apple Swift books
+
+# UIKit
+- UIView vs UIViewController
+- view controller lifecycle
+- UITableView, UICollectionView, Delegate pattern and DiffableDataSource
+
+# SwiftUI
+Standford course
+
+# Working with Data
+- storing data locally with UserDefaults and in the file system with the FileManager
+- relational database like Core Data or realm
+- user authentication with e.g. Firebase
+- Codable protocol
+- REST APIs, URLSession
+
+
+# Intermediate Skills
+- How to use the Apple Developer Documenation
+- Read about UI and UX design - Human interface guidelines
+- version control and Git
+
+
+# Swift Programming language - Advanced
+- protocol, dependency injection
+- best practices
+
+resource: 
+- Swift Programming language
+
+
+# Advanced Skills
 ## Developer CV
 Be honest and show your main relevant working experience and education.
 
