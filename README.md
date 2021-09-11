@@ -1,6 +1,6 @@
 # How to Learn iOS Development
 
-# Swift Programming language - The basics
+## Swift Programming language - The basics
 - types: enum, struct, Int
 - enum and associated values
 - when to use struct vs. class
@@ -10,15 +10,15 @@ resource:
 - 100 days HackingWithSwift
 - Apple Swift books
 
-# UIKit
+## UIKit
 - UIView vs UIViewController
 - view controller lifecycle
 - UITableView, UICollectionView, Delegate pattern and DiffableDataSource
 
-# SwiftUI
+## SwiftUI
 Standford course
 
-# Working with Data
+## Working with Data
 - storing data locally with UserDefaults and in the file system with the FileManager
 - relational database like Core Data or realm
 - user authentication with e.g. Firebase
@@ -26,27 +26,34 @@ Standford course
 - REST APIs, URLSession
 
 
-# Intermediate Skills
-- How to use the Apple Developer Documenation
-- Read about UI and UX design - Human interface guidelines
+## Intermediate Skills
+- How to use the Apple Developer [Documenation Youtube tutorial](https://youtu.be/_HmNBrO5Mhc)
+- Read about UI and UX design - [Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - version control and Git
 
 
-# Swift Programming language - Advanced
+## Swift Programming language - Advanced
 - protocol, dependency injection
 - best practices
 
 resource: 
-- Swift Programming language
+- Swift Programming language [guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
 
-# Advanced Skills
-## Developer CV
+## Advanced Skills
+
+# Developer CV
 Be honest and show your main relevant working experience and education.
 
 
-## Developer Portfolio
-What kind of projects should you build?
+# Developer Portfolio
+
+Coding Foundry Youtube tutorial: [What you NEED to include in your developer portfolio](https://www.youtube.com/watch?v=BZLLP7Gk3ps) 
+
+Build a portfolio website with Wordpress and Elementor 
+[(Youtube tutorial)](https://www.youtube.com/watch?v=gFnN-E8yruE&t=944s) + [hositing](http://hositinger.com)  ($70 for 4 years)
+
+### What kind of projects should you build?
 Start by looking at job boards and read throuhg the requirements. Look for jobs that you want. If you want to become a game developer, the requirements are very different than for a E-commerce app development. Here is an example of what you might see:
 - proficiency with Swift or Objective C, and Cocoa Touch
 - Xcode
@@ -90,3 +97,33 @@ This tutorial series is a good example for this kind of portfolio project
 https://youtu.be/ggEcSzPbVr4
 
 
+### Example Project 2
+Productivity app / BugTracker / Trello
+
+Demonstrating the following skills
+- Firebase login screens, 
+- user roles and access (admin vs. basic user)
+
+## Github repo must-do's
+- write a good Github readme: short descriptions of app idea, images, gifs
+- Instruction for installations - API keys, pods, Firebase setup
+- Include links to API documentation
+- Explain why and for what you use third party libraries
+- list code features: (iOS dev job requirements) like: Core Data, Core Animation, UIKit or SwiftUI, UISearchController, MVVM, Combine, unit tests, localisation, Core ML 
+
+## Project requirements:
+- Good looking UI
+- Conform to human interface guideline
+-  project should build
+-  project should not include bugs or crash (for most common actions)
+- Bonus: nice loading animations, empty state placeholders, error feedback for user
+
+## Criteria for code review:
+- Clean code
+- Simple (don’t use nested view models with unclear tasks)
+- Readable: naming conventions for class, functions and variables
+- DRY, modular code
+- Don’t keep uncommented code - clutter
+- Don’t write a lot of comments - clutter - use better, more descriptive names
+- no typing mistakes, 
+- consistent project structure (folder naming)
