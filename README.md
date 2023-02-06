@@ -16,7 +16,19 @@ resource:
 - UITableView, UICollectionView, Delegate pattern and DiffableDataSource
 
 ## SwiftUI
-Standford course
+
+### Free Courses
+- [Standford course](https://cs193p.sites.stanford.edu)
+
+### Tutorials
+- [SwiftUI List View](https://www.swiftyplace.com/blog/swiftui-list-view-a-deep-dive-into-one-of-the-most-important-components-of-swiftui)
+- [Customise List View Appearance in SwiftUI](https://www.swiftyplace.com/blog/customise-list-view-appearance-in-swiftui-examples-beyond-the-default-stylings)
+- [How to use SwiftUI ScrollView](https://www.swiftyplace.com/blog/how-to-use-swiftui-scrollview)
+
+### Apple Developer
+- [SwiftUI Apple Tutorials](https://developer.apple.com/tutorials/swiftui)
+- [Sample Apps Tutorials](https://developer.apple.com/tutorials/Sample-Apps)
+- [SwiftUI Concepts Tutorials](https://developer.apple.com/tutorials/swiftui-concepts)
 
 ## Working with Data
 - storing data locally with UserDefaults and in the file system with the FileManager
