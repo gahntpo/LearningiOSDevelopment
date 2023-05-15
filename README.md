@@ -39,7 +39,7 @@ resource:
 
 
 ## Intermediate Skills
-- How to use the Apple Developer [Documenation Youtube tutorial](https://youtu.be/_HmNBrO5Mhc)
+- How to use the Apple Developer [Documentation Youtube tutorial](https://youtu.be/_HmNBrO5Mhc)
 - Read about UI and UX design - [Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - version control and Git
 
