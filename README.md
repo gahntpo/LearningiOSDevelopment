@@ -18,7 +18,7 @@ resource:
 ## SwiftUI
 
 ### Free Courses
-- [Standford course](https://cs193p.sites.stanford.edu)
+- [Stanford course](https://cs193p.sites.stanford.edu)
 
 ### Tutorials
 - [SwiftUI List View](https://www.swiftyplace.com/blog/swiftui-list-view-a-deep-dive-into-one-of-the-most-important-components-of-swiftui)
@@ -39,7 +39,7 @@ resource:
 
 
 ## Intermediate Skills
-- How to use the Apple Developer [Documenation Youtube tutorial](https://youtu.be/_HmNBrO5Mhc)
+- How to use the Apple Developer [Documentation Youtube tutorial](https://youtu.be/_HmNBrO5Mhc)
 - Read about UI and UX design - [Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - version control and Git
 
@@ -63,10 +63,10 @@ Be honest and show your main relevant working experience and education.
 Coding Foundry Youtube tutorial: [What you NEED to include in your developer portfolio](https://www.youtube.com/watch?v=BZLLP7Gk3ps) 
 
 Build a portfolio website with Wordpress and Elementor 
-[(Youtube tutorial)](https://www.youtube.com/watch?v=gFnN-E8yruE&t=944s) + [hositing](http://hositinger.com)  ($70 for 4 years)
+[(Youtube tutorial)](https://www.youtube.com/watch?v=gFnN-E8yruE&t=944s) + [hosting](http://hostinger.com)  ($70 for 4 years)
 
 ### What kind of projects should you build?
-Start by looking at job boards and read throuhg the requirements. Look for jobs that you want. If you want to become a game developer, the requirements are very different than for a E-commerce app development. Here is an example of what you might see:
+Start by looking at job boards and read through the requirements. Look for jobs that you want. If you want to become a game developer, the requirements are very different than for a E-commerce app development. Here is an example of what you might see:
 - proficiency with Swift or Objective C, and Cocoa Touch
 - Xcode
 - Auto Layout
@@ -88,12 +88,12 @@ Start by looking at job boards and read throuhg the requirements. Look for jobs 
 - clean code
 - UML
 - Sketch
-- Jira, Conflunce, Bitbucket or similar
+- Jira, Confluence, Bitbucket or similar
 
 Make a list of the most common required skills and highligh them by priority. If you don't know a term, look it up.
 This should also answer questions like "should I learn SwiftUI or UIKit?" - During the time of writing, the majority of jobs required UIKit. Mostly SwiftUI was a nice to have skill. Some job ads don't even mention UIKit because it is so essential. You can see they ask for UIKit when they include e.g. Auto Layout or Interface builder knowledge.
 
-With your application you should try to demonstrate that you have all or most of the required skills. The hiring team is going to look for these skills in your application. The portfolio projects should demonstrate these skills sets. Make it easier for the hiring team by mentioning what skills you used for your projects. It is not about making a pretty UI, it is a demo of you coding skills. That being said, making a great looking UI is also a skill you will need and thus put some work in the UI part too.
+With your application you should try to demonstrate that you have all or most of the required skills. The hiring team is going to look for these skills in your application. The portfolio projects should demonstrate these skill sets. Make it easier for the hiring team by mentioning what skills you used for your projects. It is not about making a pretty UI, it is a demo of your coding skills. That being said, making a great looking UI is also a skill you will need and thus put some work in the UI part too.
 
 ### Example Project 1
 Demonstrating the following skills
